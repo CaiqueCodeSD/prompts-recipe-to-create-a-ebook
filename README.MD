@@ -20,5 +20,3 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
-
-## 🛠️ Instruções de execução
